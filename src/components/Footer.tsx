@@ -83,7 +83,7 @@ export default function Footer() {
               <li className="flex items-start gap-3">
                 <Phone className="w-5 h-5 text-primary mt-1 flex-shrink-0" />
                 <span className="font-paragraph text-base text-secondary-foreground/80">
-                  +91 6386874930
+                  +91 9369733301
                 </span>
               </li>
               <li className="flex items-start gap-3">
@@ -103,7 +103,7 @@ export default function Footer() {
               © 2026 Blood Bridge. सर्वाधिकार सुरक्षित।
             </p>
             <p className="font-paragraph text-sm text-secondary-foreground/70">
-              B.Tech Final Year Project
+            
             </p>
           </div>
         </div>
